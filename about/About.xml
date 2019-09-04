@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Armor Full Coverage</name>
+	<author>82ab53e4</author>
+    <!--<url></url>-->
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>For some reason armor in Rimworld (plate armor, marine armor) doesn't protect hands and feet. This mod changes that. Fear no more for your toes and fingers!</description>
+</ModMetaData>
