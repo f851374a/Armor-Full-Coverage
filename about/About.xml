@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Armor Full Coverage</name>
+	<packageId>82ab53e4.ArmorFullCoverage</packageId>
 	<author>82ab53e4</author>
-    <!--<url></url>-->
+    <url>https://ludeon.com/forums/index.php?topic=49633.0</url>
 	<supportedVersions>
 		<li>1.0</li>
+		<li>1.1</li>
 	</supportedVersions>
-	<description>For some reason armor in Rimworld (plate armor, marine armor) doesn't protect hands and feet. This mod changes that. Fear no more for your toes and fingers!</description>
+	<description>For some reason armor in Rimworld (plate armor, recoon armor, marine armor, cataphract armop) doesn't protect hands and feet. This mod changes that. Fear no more for your toes and fingers!\nOnly affects vanilla armor, but you can ask to add mod support.</description>
 </ModMetaData>
